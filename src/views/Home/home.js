@@ -31,7 +31,7 @@ export default class Home extends Component {
         title={
           <FormattedMessage
             id='home.title'
-            defaultMessage='Parity Home'
+            defaultMessage='Favored Home'
           />
         }
       >
