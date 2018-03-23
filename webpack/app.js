@@ -149,7 +149,7 @@ module.exports = {
       new WebpackErrorNotificationPlugin(),
 
       new HtmlWebpackPlugin({
-        title: 'Parity',
+        title: 'Favored',
         filename: 'index.html',
         template: './index.ejs',
         favicon: FAVICON,
